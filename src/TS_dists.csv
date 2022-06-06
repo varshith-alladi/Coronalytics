@@ -1,0 +1,32 @@
+﻿Dist_id,Name,Zone,TotalCases,NewCasesday,Deathsday,Dischargedday,TotalDeaths,TotalDischarged,ActiveCases
+D1,Adilabad,Orange,913,76,7,130,21,760,132
+D2,Bhadradri Kothagudem,Yellow,783,43,7,164,22,674,87
+D3,Hyderabad,Red,3495,532,27,340,243,2157,1095
+D4,Jagtial,Yellow,622,37,2,89,17,540,65
+D5,Jangaon,Yellow,794,56,9,34,28,632,134
+D6,Jayashankar Bhupalapally,Red,1165,120,7,97,20,715,430
+D7,Jogulamba Gadwal,Red,1128,77,0,82,19,888,221
+D8,Kamareddy,Orange,838,64,1,65,15,678,145
+D9,Karimnagar,Red,2072,111,10,143,48,1670,354
+D10,Khammam,Red,1031,30,2,56,12,876,143
+D11,Komarambheem Asifabad,Yellow,733,25,5,48,32,569,132
+D12,Mahububabad,Green,590,10,1,27,43,498,49
+D13,Mahabubnagar,Green,400,0,6,16,12,356,32
+D14,Mancherial,Green,540,22,4,53,24,439,77
+D15,Medak,Yellow,611,13,8,42,30,516,65
+D16,Medchal,Orange,864,12,3,12,11,788,65
+D17,Nagarkurnool,Red,1061,35,10,21,40,935,86
+D18,Nalgonda,Yellow,685,49,2,19,33,555,97
+D19,Nirmal,Yellow,721,5,5,15,22,666,33
+D20,Nijamabad,Yellow,639,47,3,29,26,444,169
+D21,Peddapalli,Orange,908,21,5,43,14,756,138
+D22,Rajanna Siricilla,Red,1316,78,0,71,34,1024,258
+D23,Rangareddy,Red,1862,98,8,82,25,1438,399
+D24,Sangareddy,Orange,887,65,0,50,18,585,284
+D25,Siddipet,Red,1415,71,6,44,32,987,396
+D26,Suryapet,Yellow,782,82,0,30,17,460,305
+D27,Vikarabad,Green,543,29,4,7,13,367,163
+D28,Wanaparthy,Green,465,19,2,35,12,321,132
+D29,Warangal Rural,Yellow,603,50,3,62,13,425,165
+D30,Warangal Urban,Green,499,43,9,55,15,299,185
+D31,Yadadri Bhuvanagiri,Green,183,7,0,9,9,140,34
